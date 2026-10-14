@@ -4,7 +4,7 @@
 
 An aluminum protective head cap for chronically implanted rats. It was used in single-unit recordings from the gustatory cortex of pair-housed rats, where the implant had to survive prolonged contact with a cage-mate (Gerbi, Ben Ami Bartal & Moran, preprint; see [Citation](#citation)). This repository provides the technical drawing and a 3D render so the hardware can be reproduced without contacting the authors.
 
-<img src="design/head_cap_render.png" alt="3D render of the head cap" width="600">
+<img src="design/head_cap_render.png" alt="3D render of the head cap" width="300">
 
 *Render of the cap base with its screw-on lid. Colors are arbitrary and do not indicate material.*
 
